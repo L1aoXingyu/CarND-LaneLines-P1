@@ -37,9 +37,6 @@ At last I combine this lines into the origin image to get the final image in whi
 
 In order to draw a single line on the left and right lanes, I modified the draw_lines() function. I compute all the slope and bias about left and right lines, then I delete some unreasonal results. At last I get the mean of the slopes and bias and I draw a line according to the mean slope and bias.
 
-This is the result in video
-
-![out.gif](http://upload-images.jianshu.io/upload_images/3623720-f4c6ec244c8bc275.gif?imageMogr2/auto-orient/strip)
 
 ### 2. Identify potential shortcomings with your current pipeline
 
