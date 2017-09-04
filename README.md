@@ -39,7 +39,7 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 
 This is the result in video
 
-![new_out.gif](http://upload-images.jianshu.io/upload_images/3623720-80b1a49ac576ec89.gif?imageMogr2/auto-orient/strip)
+![out.gif](http://upload-images.jianshu.io/upload_images/3623720-f4c6ec244c8bc275.gif?imageMogr2/auto-orient/strip)
 
 ### 2. Identify potential shortcomings with your current pipeline
 
